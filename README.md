@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://media.tenor.com/KM3VNP5d1FIAAAAM/miku-hello.gif" height=280 width=240 align="right">
+<img src="https://tenor.com/en-GB/view/yes-yup-yeah-thats-right-correct-gif-16924012" height=280 width=240 align="right">
 
 - 🔭 I’m currently working on **DataStructure, Algorithms, Problem Solving, Flask, Django, Docker, mongodb**.
 
